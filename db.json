@@ -1,4 +1,4 @@
-[
+{
   "products" :
   [{
   "id": 1,
@@ -121,4 +121,4 @@
   "judul": "Coffee Decaf Colombian",
   "harga": "$9.84"
 }]
-]
+}
